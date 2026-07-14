@@ -10,8 +10,13 @@ export default function About() {
         <div className="about-layout">
           <div
             className="avatar"
-            style={{ backgroundImage: "url(./public/profile-photo.jpg)" }}
+           
           >
+            <img
+             src="/profile-photo.jpg"
+             alt="Ilma Rehman"
+             className="avatar-img"
+            />
             
           </div>
 

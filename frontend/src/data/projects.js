@@ -62,7 +62,7 @@ export const projects = [
   },
 
   {
-    title: "Alemeno Backend Assignment",
+    title: "Transaction Processing System",
     featured: false,
     image: "/projects/alemeno.png",
 
