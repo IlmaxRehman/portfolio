@@ -15,6 +15,14 @@ export const experience = [
       'Building production-ready web applications for real clients. Developed Trivoya Travels, a complete travel management platform, and contributed to the Prayag Eye Laser Center website while collaborating across frontend, backend, deployment, testing, and client requirements.'
   },
 
+   {
+    date: 'August 2025 - October 2025',
+    role: 'Frontend Developer Intern',
+    org: 'Titan Flaws',
+    desc:
+      'Contributed to assigned frontend development tasks and projects. Work with technologies like React.js, HTML, CSS, JavaScript, Figma and Canva during the internship and successfully contributed to the team projects.'
+  },
+
   {
     date: '2025 – 2026',
     role: 'President',
