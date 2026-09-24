@@ -3,7 +3,7 @@ export const education = [
     degree: 'B.Tech — Computer Science & Engineering',
     institution: 'Anand Engineering College, Agra',
     period: '2023 – 2027',
-    meta: 'CGPA: 8.24/10'
+    meta: 'CGPA: 8.62/10'
   },
   {
     degree: 'Senior Secondary — Class XII',
