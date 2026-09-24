@@ -17,7 +17,7 @@ export const credentials = [
 
   {
     issuer: 'DRDO – ADRDE',
-    title: 'Cybersecurity & AI Internship',
+    title: 'AI Internship',
     description:
       'Worked on IntelliGuard, contributing to feature engineering, project integration, Windows launcher development, and deployment of an AI-powered next-generation firewall.',
     link: '#'
