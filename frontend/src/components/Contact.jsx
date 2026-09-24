@@ -7,7 +7,7 @@ import {
 } from "./icons/Icons.jsx";
 import { LINKEDIN_URL, GITHUB_URL,LEETCODE_URL  } from "./Hero.jsx";
 
-const EMAIL = "YOUR_EMAIL@gmail.com";
+const EMAIL = "ilmarehman022@gmail.com";
 
 export default function Contact() {
   return (
@@ -124,7 +124,7 @@ export default function Contact() {
 
                   <a
                     className="icon-link cv"
-                    href="/resume.pdf"
+                    href="https://drive.google.com/file/d/1UDllzuERvesYw4ei0okJbdbSPSWYEMvB/view?usp=sharing"
                     target="_blank"
                     rel="noreferrer"
                   >
