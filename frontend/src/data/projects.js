@@ -25,7 +25,7 @@ export const projects = [
 
     live: "https://truth-guard-acbi.onrender.com",
 
-    architecture: "#",
+   
 
     installer: null
   },
@@ -91,33 +91,7 @@ export const projects = [
     installer: null
   },
 
-  {
-    title: "YamunaWatch AI",
-    featured: false,
-    image: "/projects/yamuna.png",
-
-    story:
-      "Presented at CSIR–NEERI for AI-assisted environmental monitoring.",
-
-    description:
-      "Computer vision research project built for monitoring the Yamuna River using AI. The project was presented at CSIR–NEERI and is currently being rebuilt with an improved architecture and deployment pipeline.",
-
-    tags: [
-      "YOLOv8",
-      "OpenCV",
-      "Python",
-      "Computer Vision",
-      "Research"
-    ],
-
-    github: "#",
-
-    live: null,
-
-    architecture: null,
-
-    installer: null
-  },
+   
 
   {
     title: "IntelliGuard",
