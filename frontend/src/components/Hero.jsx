@@ -45,7 +45,7 @@ export default function Hero() {
 
             <a
               className="btn btn-ghost"
-              href="https://drive.google.com/file/d/1D46630dXdmD5deHTsOp7w7IJ95WDHFpx/view?usp=sharing"
+              href="https://drive.google.com/file/d/1UDllzuERvesYw4ei0okJbdbSPSWYEMvB/view?usp=sharing"
               target="_blank"
               rel="noreferrer"
             >
@@ -94,7 +94,7 @@ export default function Hero() {
 
             <a
               className="icon-link cv"
-              href="https://drive.google.com/file/d/1D46630dXdmD5deHTsOp7w7IJ95WDHFpx/view?usp=sharing"
+              href="https://drive.google.com/file/d/1UDllzuERvesYw4ei0okJbdbSPSWYEMvB/view?usp=sharing"
               target="_blank"
               rel="noreferrer"
               title="Resume"
